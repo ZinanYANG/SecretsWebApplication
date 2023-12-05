@@ -24,3 +24,10 @@ This project is a web application named "Secrets", designed to allow users to sh
 </ul>
 
 <p> <em>Key Technologies:</em> Node.js, Express, EJS, MongoDB, Mongoose, Passport.js (Local Strategy and Google OAuth), express-session, body-parser, dotenv.</p>
+<P>Outcome:</P>
+<ul>
+  <li>Successfully deployed a secure and responsive web application that provides a platform for users to share and view secrets anonymously.
+</li>
+  <li>Demonstrated proficiency in full-stack development, authentication mechanisms, and database management.
+</li>
+</ul>
